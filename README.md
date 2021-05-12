@@ -1,1 +1,1 @@
-# NBA-Awards-Prediciton
+# NBA-Awards-Prediction
