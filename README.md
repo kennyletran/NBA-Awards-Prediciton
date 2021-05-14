@@ -18,24 +18,17 @@ Random Forest
 
 ## Technologies and Packages Used
 R, Python, Jupyter Notebook
-Python: NumPy, Pandas, Sklearn, Matplotlib, StatsModels API
-R: dplyr, glmnet, stringi
 
-## Usage
-The following steps should be taken to run the four regression models:
-Start with The NBA Awards Data Cleaning file 
-Contains a step-by-step guide on the process and tools used to clean the data, including string manipulation, filtering, and handling missing variables. It can be run by downloading the nbaStats[Year].csvs. 
-Create MIP data 
-MIP Creation file provides the code for this 
-Choose your fighter (model), and load the data in (all the files includes commented code explaining each part): 
-Linear Regression: Linear Regression.ipynb
-Random Forest: RandomForests.ipynb
-Lasso + Ridge Regression: Lasso + Ridge Models.Rmd
+Python: NumPy, Pandas, Sklearn, Matplotlib, StatsModels API
+
+R: dplyr, glmnet, stringi
 
 ## Contributors
 Nilay Agarwalla, Raj Dasani, Bikram Khaira, Kenny Tran, Sarah Truong
 
 ## Resources
 All data for 2020 (For all datasets, change the year in the URL to get different years): 
+
 Player Data:https://www.basketball-reference.com/leagues/NBA_2020_per_game.html 
+
 Voting Shares: https://www.basketball-reference.com/awards/awards_2020.html
