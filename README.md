@@ -18,28 +18,6 @@ R, Python, Jupyter Notebook
 Python: NumPy, Pandas, Sklearn, Matplotlib, StatsModels API
 R: dplyr, glmnet, stringi
 
-## Pre-Filtered Datasets 
-nbaStats[Year].csv
-Unfiltered NBA player statistics from basketball-reference for the years 2010-2020
-
-## Cleaned and Filtered Datasets 
-update142.csv
-2010-2020 stats for each eligible NBA player including their voting percentages for each award
-roydata142.csv
-2010-2020 stats for each eligible Rookie of the Year player
-smoydata142.csv
-2010-2020 stats for each eligible Sixth Man of the Year player
-mip_stats.csv
-2011 -2020 difference in stats from the previous season for each eligible Most Improved Player player
-nba2021.csv
-2021 stats for each player (used for MVP and DPOY) 
-roy2021.csv
-2021 stats for each eligible Rookie of the Year Player
-smoy2021.csv
-2021 Stats for each eligible 6th Man of the Year Player
-mip2021.csv
-Difference between 2021 and 2020 stats for each player up until 5/12/2021 (used for MIP) 
-
 ## Usage
 The following steps should be taken to run the four regression models:
 Start with The NBA Awards Data Cleaning file 
