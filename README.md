@@ -9,8 +9,11 @@ The primary objective of this project is to create an objective prediction model
 
 ## Model Algorithms and Methods Used
 Linear Regression
+
 Ridge Regression
+
 Lasso Regression
+
 Random Forest
 
 ## Technologies and Packages Used
